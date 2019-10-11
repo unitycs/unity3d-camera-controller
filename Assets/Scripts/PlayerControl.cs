@@ -13,7 +13,6 @@ public class PlayerControl : MonoBehaviour {
 
     protected Animator m_Anim;
     CharacterController m_Ctrl;
-    
     private int m_waiting=0;
 	// Use this for initialization
 	void Start () {
